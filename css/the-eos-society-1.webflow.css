@@ -994,8 +994,11 @@ body {
 }
 
 .summary_heading.white {
-  color: #fff;
-  border: 1px solid #fffefe;
+color: #fff;
+    border: 1px solid #fffefe;
+    border-radius: 40px;
+    padding: 3px 17px;
+    margin: 10px 10px;
 }
 
 .summary_heading.white.sec {
